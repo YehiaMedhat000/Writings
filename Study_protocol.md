@@ -8,27 +8,24 @@ Which made me at the end of the term having a lot of gaps in my studies and a lo
 To predefine most if not all of the behaviours towards how and why I should do something and not the other when studying.
 
 ## *Attending lectures*
+(empty)
 
 ## *Writing notes (generally)*
 
-From video []()
+From video [How I Take Notes for Different Subjects (by Cajun Koi Academy)](https://www.youtube.com/watch?v=uH2-I43kA7I)
 #### Non-technical classes
 | Q | E | C |
--------------
+|---------------|---------------|---------------|
 | questions | Evidence | Conclusion |
--------------------------------------
+|---------------|---------------|---------------|
 **You must understand the relationship between the three,do whatever it takes**
 
 #### Technical classes
 | P | S | A |
--------------
+|---------------|---------------|---------------|
 | Problems | Steps | Answer |
------------------------------
+|---------------|---------------|---------------|
 **Put annotations with the steps that needs clarification**
-
-__All the next is my opinion__
-#### In lectures (NEEDS UPDATE)
-I actually really believe that this is something I should rethink about later, but for now, let's write down everything I feel genuine
 
 #### Online lecturers, books, etc.
 * Things you firstly know (Firstly)
@@ -36,6 +33,7 @@ I actually really believe that this is something I should rethink about later, b
 * Things haven't been understood well (Ambiguous)
 
 ## *Summaries*
+(empty)
 
 #### Mind maps
 * If most of the ideas in the material given are connected somehow
@@ -45,8 +43,10 @@ I actually really believe that this is something I should rethink about later, b
 * Some repetitive and highly important notes
 
 #### Comprehensiveness
+(empty)
 
 ## *Seeking help*
+(empty)
 
 #### Questions
 * Solving problems: keep your solution neat enough to be reviewable.
