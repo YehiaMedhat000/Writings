@@ -11,6 +11,22 @@ To predefine most if not all of the behaviours towards how and why I should do s
 
 ## *Writing notes (generally)*
 
+From video []()
+#### Non-technical classes
+| Q | E | C |
+-------------
+| questions | Evidence | Conclusion |
+-------------------------------------
+**You must understand the relationship between the three,do whatever it takes**
+
+#### Technical classes
+| P | S | A |
+-------------
+| Problems | Steps | Answer |
+-----------------------------
+**Put annotations with the steps that needs clarification**
+
+__All the next is my opinion__
 #### In lectures (NEEDS UPDATE)
 I actually really believe that this is something I should rethink about later, but for now, let's write down everything I feel genuine
 
