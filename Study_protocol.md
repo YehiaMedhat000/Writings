@@ -1,18 +1,18 @@
 # Study Protocol
 
-### *Why Writing this?*
+### Why Writing this?
 _______________________
 In the 3rd term in the faculty (FOE), I had a lot of difficulties to study and also, a lot of inconsistencies and misconceptions about the ways I have already tried, and really unchallengeable facts about studying.
 Which made me at the end of the term having a lot of gaps in my studies and a lot of disappointment in consequence.
 
-### *What does this aim to?*
+### What does this aim to?
 ____________________________
 To predefine most if not all of the behaviours towards how and why I should do something and not the other when studying.
 
-## *Attending lectures*
+## Attending lectures
 (empty)
 
-## *Writing notes (generally)*
+## Notes
 Resources:
 * [How I Take Notes for Different Subjects (Cajun Koi Academy)](https://www.youtube.com/watch?v=uH2-I43kA7I)
 
@@ -32,12 +32,8 @@ _____________________
 
 **Put annotations with the steps that needs clarification**
 
-## *Summaries*
-(empty)
-
-### Mind maps
-_____________
-* If most of the ideas in the material given are connected somehow
+## Summaries
+[How to mindmap](<./mindmapping.md>)
 
 ### Flash Cards
 _______________
@@ -47,7 +43,7 @@ _______________
 #### Comprehensiveness
 (empty)
 
-## *Seeking help*
+## Seeking help
 (empty)
 
 ### Questions
