@@ -33,7 +33,7 @@ _____________________
 **Put annotations with the steps that needs clarification**
 
 ## Summaries
-[How to mindmap](<./mindmapping.md>)
+[How to mindmap](./mindmapping.md)
 
 ### Flash Cards
 _______________
@@ -53,3 +53,16 @@ _____________
     * And this also comes when solving problems.
     * Trying to new ways to solve the problems.
 
+### Higher order learning
+    It's a way in which you don't only understand and remember effectively pieces of information, but, you also relate them to each other. it's made of stages:
+    1. Lower learning level
+        1. Remember
+        2. Understand
+    2. Higher order level
+        1. Apply
+        2. Analyze, evaluate, create
+
+        You need to ask some question about concepts, and they're:
+        * Why is this concept important
+        * How does it relate to other info
+        * How will I use this info (in solving problems for instance)
