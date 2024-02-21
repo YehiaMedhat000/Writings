@@ -22,7 +22,7 @@ _________________________
 |---|---|---|
 | questions | Evidence | Conclusion |
 
-**You must understand the relationship between the three,do whatever it takes**
+**You must understand the relationship between the three, do whatever it takes**
 
 ### Technical classes
 _____________________
@@ -30,7 +30,7 @@ _____________________
 |---|---|---|
 | Problems | Steps | Answer |
 
-**Put annotations with the steps that needs clarification**
+**Put annotations with the steps that need clarification**
 
 ## Summaries
 [How to mindmap](./mindmapping.md)
